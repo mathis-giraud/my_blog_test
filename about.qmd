@@ -1,0 +1,17 @@
+---
+title: "Mathis GIRAUD"
+image: photo identite.jpg
+about:
+  template: solana
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mathis-giraud0910
+    - icon: github
+      text: Github
+      href: https://github.com/mathis-giraud
+---
+
+Voici mon blog
